@@ -1,0 +1,9 @@
+{
+  "logo": "https://eg-v3-demos.s3.amazonaws.com/coding-exercise/alias-logo.svg",
+  "gifts": [
+    "https://eg-v3-demos.s3.amazonaws.com/coding-exercise/group-gift-image-1.jpg",
+    "https://eg-v3-demos.s3.amazonaws.com/coding-exercise/group-gift-image-2.jpg",
+    "https://eg-v3-demos.s3.amazonaws.com/coding-exercise/group-gift-image-3.jpg",
+    "https://eg-v3-demos.s3.amazonaws.com/coding-exercise/group-gift-image-4.jpg"
+  ]
+}
